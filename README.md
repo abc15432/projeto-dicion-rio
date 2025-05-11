@@ -9,7 +9,7 @@ Um dicionário interativo simples criado com HTML, CSS e JavaScript.
 
 ## Como Usar
 1. Clone o repositório ou baixe os arquivos.
-2. Abra o arquivo `index.html` no seu navegador.
+2. Abra o arquivo `index.html` no seu navegador e execute o programa.
 
 ## Funcionalidades
 - Busca de palavras.
